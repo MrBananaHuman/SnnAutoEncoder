@@ -1,2 +1,2 @@
 # SnnAutoEncoder
-Auto encoder based on Spiking Neural Network for Noise Reduction in Speech Recognition
+Auto encoder based on Spiking Neural Network for Noise Reduction in Speech Recognition using Nengo
